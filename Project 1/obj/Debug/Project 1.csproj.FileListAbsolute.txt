@@ -1,0 +1,42 @@
+D:\Làm việc\Work\Project 1\Project 1\bin\Debug\Project 1.exe.config
+D:\Làm việc\Work\Project 1\Project 1\bin\Debug\Project 1.exe
+D:\Làm việc\Work\Project 1\Project 1\bin\Debug\Project 1.pdb
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project 1.csproj.SuggestedBindingRedirects.cache
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project_1.Views.LoginView.resources
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project_1.Views.MainView.resources
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project_1.Views.ProfileView.resources
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project_1.Views.RegisterView.resources
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.cache
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project 1.exe
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project 1.pdb
+D:\Làm việc\Work\Project 1\Project 1\obj\Debug\Project_1.Views.ChangePassView.resources
+D:\FileWork\Work\Project 1\Project 1\bin\Debug\Project 1.exe.config
+D:\FileWork\Work\Project 1\Project 1\bin\Debug\Project 1.exe
+D:\FileWork\Work\Project 1\Project 1\bin\Debug\Project 1.pdb
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project 1.csproj.SuggestedBindingRedirects.cache
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.ChangePassView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.LoginView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.MainView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.ProfileView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.ProjectView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.Re_issuePassView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.RegisterView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.TaskView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.cache
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project 1.exe
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project 1.pdb
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.AddTaskView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.ManagementTask.resources
+D:\FileWork\Work\Project 1\Project 1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\FileWork\Work\Project 1\Project 1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\FileWork\Work\Project 1\Project 1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\FileWork\Work\Project 1\Project 1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project 1.csproj.CopyComplete
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.StatisticalView.resources
+D:\FileWork\Work\Project 1\Project 1\obj\Debug\Project_1.Views.AddProjectView.resources
